@@ -1,0 +1,18 @@
+.contact{
+    margin-top: 5%;
+    color: rgb(13, 13, 97);
+}
+.custom-line {
+    width: 40%;
+    height: 5px;
+    background-color: rgb(13, 13, 97);
+    margin: 20px 15px;
+}
+.Btn-co{
+    background-color: rgb(0, 255, 179);
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+
+
+}

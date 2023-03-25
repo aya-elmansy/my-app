@@ -1,0 +1,11 @@
+.about {
+    padding: 5%;
+    background-color: rgb(89, 175, 132);
+}
+
+.custom-line {
+    width: 40%;
+    height: 5px;
+    background-color: white;
+    margin: 20px 15px;
+}

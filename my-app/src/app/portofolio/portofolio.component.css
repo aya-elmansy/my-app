@@ -1,0 +1,12 @@
+.custom-line {
+    width: 40%;
+    height: 5px;
+    background-color: rgb(8, 18, 83);
+    margin: 20px 15px;
+}
+
+.prof {
+    color: rgb(8, 18, 83);
+    text-align: center;
+    margin-top: 40px;
+}
